@@ -1,0 +1,2 @@
+# Ignore local files, by default. Remove this file if you want to commit the directory to Git
+*
