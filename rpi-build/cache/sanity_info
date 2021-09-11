@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/raspberry/yocto/poky/rpi-build/tmp
+SSTATE_DIR /home/raspberry/yocto/poky/rpi-build/sstate-cache
+NATIVELSBSTRING ubuntu-20.04
